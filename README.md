@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcella
-- 👀 I’m interested in UX design, data analytics, video games, and cats 
+- 👀 I’m interested in UX design, data, homelabbing, video games, and cats 
 - 🌱 I’m currently upskilling my coding skills 
 - 💞️ I’m looking to collaborate on mobile apps 
 - 📫 How to reach me marsxarts@gmail.com
