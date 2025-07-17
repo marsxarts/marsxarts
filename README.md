@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Marcella
-- 👀 I’m interested in UX design, data, homelabbing, video games, and cats 
-- 🌱 I’m currently upskilling my coding skills 
-- 💞️ I’m looking to collaborate on mobile apps 
+- 👀 I’m interested in cyber security, design, tech, video games, bass guitar and cats 
+- 🌱 I’m currently upskilling my coding skills  
 - 📫 my design website - www.marsxarts.com
-- ⚡ Fun fact: i play the bass 
 
 <!---
 marsxarts/marsxarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
